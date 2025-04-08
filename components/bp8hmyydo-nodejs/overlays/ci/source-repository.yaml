@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bp8hmyydo-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bp8hmyydo-nodejs
